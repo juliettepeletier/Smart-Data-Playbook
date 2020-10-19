@@ -1,8 +1,4 @@
----
-id: metamorphoses_stap_5
-title: Stap 5: Prepareren van data
-sidebar_label: Stap 5: Prepareren
----
+**[Inhoud](ToC.md)**
 
 > Naast het bepalen van de inhoudelijke kwaliteit van de data, is het belangrijk om ook naar de databron zelf te kijken. Zo kan het mogelijk zijn dat de databron zelf nog aanpassingen nodig heeft voordat de databron gebruikt kan worden voor analyse.
 
@@ -18,3 +14,5 @@ Enkele voorbeelden van standaardisatie:
 + Unieke BSN-nrs
 + Notatie van adres, etage, postcode in aparte velden, met consistentie notatie
 + Lichtmasten identificatie op basis van uniek nummer
+
+**[Inhoud](ToC.md)**
