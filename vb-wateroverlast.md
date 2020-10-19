@@ -2,7 +2,7 @@
 
 > In dit voorbeeld doorlopen we de verschillende stappen. Het is bedoeld als illustratie en zal niet altijd overeenkomen met de werkelijkheid.
 
-## Stap 1: De vraag
+## Inleiding
 
 De impact van wateroverlast op de samenleving zal de komende jaren toenemen zoals uitgebreid is beschreven in [Wateroverlast](vb-wateroverlast.md). Hierin is ook de link gelegd naar de Meldingen Openbare Ruimte (MOR) als een bruikbare databron. In dit document zal hier verder op in worden gegaan en ook een combinatie gemaakt worden met de weersdata van het KNMI. Een uitgebreide kijk in de data van het KNMI is te vinden onder [Voorbeeld dataset - KNMI](kookboek_data_knmi.md)
 
