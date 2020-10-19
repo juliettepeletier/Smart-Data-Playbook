@@ -1,7 +1,7 @@
 # Inhoud Kookboek Smart Data
 
-## [[Introductie]](metamorphoses_introductie.md)
-## [[Stap 1]](readme.md)
+## [[Introductie]](README.md)
+## [[Stap 1]](metamorphoses_stap_1.md)
 ## [[Stap 2]](metamorphoses_stap_2.md)
 ## [[Stap 3]](metamorphoses_stap_3.md)
 ## [[Stap 4]](metamorphoses_stap_4.md)
