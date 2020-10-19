@@ -10,6 +10,6 @@ Voorbeelden van KPI’s:
 + Aantal meldingen van overstroomde kelder afname 20% in dezelfde periode van 10 jaar.
 + Aantal schadegevallen verzekeraars afname van 10% in dezelfde periode van 10 jaar.
 
-[[Meer over KPI’s]]( metamorphoses_KPI)
+[Meer over KPI’s](KPI.md)
 
 **[Inhoud](ToC.md)**
