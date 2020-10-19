@@ -9,7 +9,10 @@
 Dit kookboek biedt een algemeen stappenplan en verschillende voorbeeld "recepten". Het is een interactief document met verschillende bouwstenen die ieder ingaan op een aspect rondom de meetbaarheid, controleerbaarheid en monitoring/evaluatie van data.
 Dit kookboek is bedoeld als naslagwerk en als inspiratiebron. Het is niet bedoeld om letterlijk van begin tot eind te doorlopen. Afhankelijk van de behoefte en het kennisniveau van jouw organisatie kun je het kookboek op verschillende manieren gebruiken. Je gebruikt wat je nodig hebt. En als je wilt bieden we links naar meer informatie en voorbeelden van anderen. Het gaat in dit kookboek nadrukkelijk niet alleen om het eindresultaat, maar ook om alle stappen en hulpmiddelen om data op een goede en structurele manier te gebruiken binnen jouw organisatie. De focus in dit kookboek ligt op de gebouwde omgeving, maar de aanpak is toepasbaar op elk beleidsterrein. 
 
-Het kookboek is zodanig opgezet dat het als naslag kan fungeren voor zowel beleidsmedewerkers, data scientists als projectmanagers. Het bevat verwijzingen naar voorbeelden van andere oplossingen die hergebruikt kunnen worden of als inspiratie kunnen dienen. Daarnaast wordt er per stap verwezen naar relevante achtergrondinformatie.     
+Het kookboek is zodanig opgezet dat het als naslag kan fungeren voor zowel beleidsmedewerkers, data scientists als projectmanagers. Het bevat verwijzingen naar voorbeelden van andere oplossingen die hergebruikt kunnen worden of als inspiratie kunnen dienen. Daarnaast wordt er per stap verwezen naar relevante achtergrondinformatie. 
+
+## Future City Foundation
+Dit kookboek is tot stand gekomen met hulp van het netwerk van de Future City Foundation. Dit kennisnetwerk helpt om de input van een groot aantal betrokkenen te verwerken in dit kookboek.
 
 ## Omgevingswet en DSO	
 De komst van de nieuwe Omgevingswet in 2021 is een belangrijke katalysator om de omgang met data gestructureerd op te pakken. Het uitgangspunt van een gelijke informatiepositie voor alle betrokkenen is één van de centrale pijlers van de Omgevingswet. 
