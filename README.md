@@ -1,4 +1,4 @@
-** [Inhoud](ToC.md)
+**[Inhoud](ToC.md)**
 
 ## Kookboek voor slim gebruik van data
 
