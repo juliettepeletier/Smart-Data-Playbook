@@ -1,5 +1,7 @@
 **[Inhoud](ToC.md)**
 
+### :nine: Stap 9: Monitor de indicatoren 
+
 > Veel vraagstukken/problemen vereisen monitoring over een langere periode en zullen niet zijn beantwoord met een eenmalige analyse of conclusie. 
 
 Relevante vragen m.b.t. monitoren van doelstellingen:
