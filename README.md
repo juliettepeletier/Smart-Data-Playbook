@@ -2,7 +2,18 @@
 
 ## Kookboek voor slim gebruik van data
 
-> Overheden willen de meetbaarheid, controleerbaarheid en monitoring van hun doelstellingen met betrekking tot de kwaliteit van de leefomgeving verbeteren. Daarbij wil zij beter gebruik maken van de mogelijkheden die data bieden. Dit kookboek helpt om data beter te gebruiken bij het verbeteren van de kwaliteit van de leefomgeving.
+> We leven in een netwerksamenleving waarin data van groot belang zijn voor een efficiënte en succesvolle uitvoering van beleid. Data kan helpen om meer objectieve en feitelijke keuzes te maken. Maar dat gaat niet vanzelf. Gelukkig groeit het inzicht dat het zo simpel niet is. Daarvoor is een aantal redenen aan te voeren, zoals ook helder beschreven in dit artikel: https://www.gebiedsontwikkeling.nu/artikelen/werk-niet-data-gedreven-maar-data-ondersteund/.
+
+De kern van dat betoog is dat data een versimpelde weergave van de werkelijkheid bieden, dat de kwaliteit vaak niet voldoet en data eenzijdige besluitvorming legitimeert. Met voorbeelden wordt dit toegelicht.
+
+Daarnaast zijn niet alle ontwikkelingen te vangen in kwantitatieve cijfers. Kwalitatieve data, zoals enquetes, leefbaarheidsonderzoeken en burgerspanels bieden eveneens veel inzicht, hoewel ze soms minder eenvoudig te gebruiken zijn (wat betekent het als de waardering van een groene omgeving stijgt van een 6,9 naar een 7,1?). Naast kwalitatieve en kwantitatieve data, blijven kennis en ervaring belangrijk om tot goed beleid te komen. Data is slechts één van de beschikbare hulpmiddelen. 
+Het is belangrijk dat beleidsmedewerkers weten hoe ze data kunnen gebruiken bij het opstellen, uitvoeren en evalueren van beleid.
+
+Tot slot is data niet altijd up-to-date. Zo is het AHN (Actueel Hoogtebestand Nederland) een dataset die eens per 6 jaar wordt geactualiseerd. Om de bodemdalingsproblematiek, na de warme zomers van de afgelopen jaren, in kaart te brengen, is dit onvoldoende.
+
+Een zorgvuldige inzet van data is dus van groot belang.
+
+Overheden willen de meetbaarheid, controleerbaarheid en monitoring van hun doelstellingen met betrekking tot de kwaliteit van de leefomgeving verbeteren. Daarbij wil zij beter gebruik maken van de mogelijkheden die data bieden. Dit kookboek helpt om data beter te gebruiken bij het verbeteren van de kwaliteit van de leefomgeving.
 
 ## Hoe zit dit kookboek in elkaar?
 
