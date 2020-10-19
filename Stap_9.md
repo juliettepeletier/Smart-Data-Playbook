@@ -8,7 +8,7 @@ Relevante vragen m.b.t. monitoren van doelstellingen:
 
 + Hoe vaak moet monitoring plaatsvinden?
 + Kan proces geautomatiseerd worden? 
-+ Zijn de eerder geidentificeerde databronnen nog steeds relevant? [gebruik stap 8](stap_8.md)
++ Zijn de eerder geidentificeerde databronnen nog steeds relevant? [gebruik stap 8](Stap_8.md)
 + Inzicht in gebruikte bronnen 
 + Zijn je doelstellingen nog steeds correct?
 
