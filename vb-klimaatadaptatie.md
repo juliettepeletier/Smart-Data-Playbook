@@ -1,8 +1,4 @@
----
-id: metamorphoses_voorbeeld_klimaatadaptatie
-title: Klimaatadaptatie
-sidebar_label: Klimaatadaptatie
----
+
 
 Klimaatadaptie is een belangrijk onderwerp met de huidige veranderingen in het milieu en de veranderingen die nog gaan komen in de toekomst. Wateroverlast hoort daar ook bij, maar denk ook aan hitte-eilanden, energieverbruik en -opwekking en luchtkwaliteit.
 
@@ -99,13 +95,13 @@ De verkoeling door bomen is met de huidige constantes zodanig minimaal dat die w
 
 ### Het model
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/kam.png" target="_blank" alt="imageStyle: Wateroverlas"/>
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/kam_buurt.png" target="_blank" alt="imageStyle: Wateroverlas"/>
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/kam_lucht.png" target="_blank" alt="imageStyle: Wateroverlas"/>
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/kam_water.png" target="_blank" alt="imageStyle: Wateroverlas"/>    
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/kam_hitte.png" target="_blank" alt="imageStyle: Wateroverlas"/>    
+![Snuffelfiets](/kam.png)
+![Snuffelfiets](/kam_buurt.png)
+![Snuffelfiets](/kam_lucht.png)
+![Snuffelfiets](/kam_water.png)
+![Snuffelfiets](/kam_hitte.png)
 
 ### Uitgebreid
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/heat.png" target="_blank" alt="imageStyle: Wateroverlas"/>
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/twi.png" target="_blank" alt="imageStyle: Wateroverlas"/>
+![Snuffelfiets](/heat.png)
+![Snuffelfiets](/twi.png)
