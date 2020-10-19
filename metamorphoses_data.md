@@ -1,0 +1,13 @@
+---
+id: metamorphoses_data
+title: Transparantie
+sidebar_label: Transparantie
+---
+
+In het kader van transparantie kan de eerder genoemde [datacatalogus](kookboek_inzicht.md) hulp bieden. Een belangrijk onderdeel van de Haagse Datacatalogus zijn de links tussen informatieproducten, zoals BI-rapportages en Dashboards. Bij elk van deze producten kan aangegeven worden welke bronbestanden voor dit product gebruikt zijn. Wanneer een dergelijk informatieproduct gebruikt of gepubliceerd wordt, is direct duidelijk wat de onderliggende bronnen zijn geweest. Het komt in de praktijk voor dat er al nieuwe versies van (bron)bestanden zijn, maar dat die nog niet gebruikt worden in een rapport, dashboard of kaart.
+Om gebruikte data te kunnen controleren, kent de Datacatalogus de mogelijkheid om aan te geven welke definitie gebruikt is bij een bepaald product. Er zijn datasets (voorbeeld “woningen in Den Haag”) waarbij de gebruikte definitie (Woning) invloed heeft op de inhoud van een dataset (aantal m2). Wanneer twee datasets over woningen gecombineerd worden die elk een andere defiitie gebruiken, kunnen verkeerde conclusies getrokken worden.
+Een ander voorbeeld van een databron waarin een combinatie van datasets wordt gebruikt, is de klimaatatlas (https://zuid-holland.klimaatatlas.net/) van de provincie Zuid-Holland met geografische analyses van klimaatonderwerpen. Voor elke kaart worden verschillende bronbestanden gebruikt. Voor wateroverlast bij extreme neerslag in stedelijk gebied zegt de klimaatatlas bijvoorbeeld: "Voor panden (bron: BAG) is in het terreinmodel een vloerpeil van 15 cm boven maaiveld aangenomen. Het onderlopen van panden via drempels is niet meegenomen, omdat detailinformatie van drempelhoogte nog ontbreekt." 
+
+Veelal kijken gebruikers alleen naar het eindresultaat (de kaart) en krijgt de controleerbaarheid van de onderliggende bronnen minder aandacht (welke versie van een bron, welke aannames, etc.). Toch is dat belangrijk omdat de gepresenteerde informatie mogelijk het resultaat van een transformatie van brongegevens. In het kader van transparantie is het wenselijk inzicht te krijgen in deze transformaties en deze te kunnen controleren. 
+
+Naast het combineren van relevante en kwalitatief hoogwaardige datasets en de controleerbaarheid van het gehele proces, is een laatste belangrijke stap het kunnen evalueren en monitoren van doelstellingen. Het laatste hoofdstuk zal dieper ingaan op het gebruik van kritieke prestatie-indicatoren om meetbare doelstellingen te kunnen formuleren. 
