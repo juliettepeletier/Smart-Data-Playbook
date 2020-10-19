@@ -1,5 +1,7 @@
 **[Inhoud](ToC.md)**
 
+### :four: Stap 4: Beoordeel de data
+
 > Er is zeer veel data beschikbaar. Hoe je deze data waardeert, is een heel andere vraag. Op voorhand is de inhoud, kwaliteit, relevantie of bruikbaarheid niet altijd duidelijk. Een goed fundament voor datagedreven beleid begint daarom met het creëren van inzicht in deze aspecten. Het maakt data meetbaar, waardoor beleid controleerbaar en analyseerbaar kan worden en dus transparant.
 
 Om de kwaliteit van datasets te bepalen is het belangrijk om de juiste vragen te stellen:
@@ -10,9 +12,11 @@ Om de kwaliteit van datasets te bepalen is het belangrijk om de juiste vragen te
 + Is de data up-to-date en met welke frequentie wordt de data bijgewerkt? 
 + Is de data makkelijk te verkrijgen (link naar formaat, csv, API, )? [^1]
 [^1]: https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/technisch-aansluiten/standaarden/api-uri-strategie/
+
 ## Metadata
 Een belangrijke hulp bij het bepalen van de kwaliteit en mogelijke relevantie van een dataset, is metadata. Vaak is deze metadata opgesteld volgens een bepaalde standaard, waardoor veel vragen m.b.t. kwaliteit direct zijn terug te vinden in de metadata.
 [[Meer over metadata]]( metamorphoses_metadata.md)
+
 ## Datamodellen
 Naast metadata, zijn datamodellen een andere belangrijke manier om de kwaliteit van een databron te bepalen en te verbeteren.
 Met gestandaardiseerde data / datamodellen is het makkelijker om:
