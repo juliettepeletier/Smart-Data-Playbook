@@ -1,3 +1,5 @@
+**[Inhoud](ToC.md)**
+
 > Dit is een praktisch voorbeeld waarbij getracht is zoveel mogelijk stappen uitgebreid te behandelen. Daardoor zal dit niet altijd een goed beeld geven van de werkelijkheid en is dus puur illustratief bedoeld.
 
 ## Introductie
@@ -149,3 +151,5 @@ Het is dus belangrijk om te zien hoe een dataset tot stand is gekomen. Het feit 
 - Gebrek aan metingen: het aantal dagen met een hoge etmaalsom zijn schaarser, waardoor het lastig is om het gedrag van de burgers in te schatten vanuit de beschikbare gegevens.
 - Verwachting van de burger: hoe ervaart een burger een bui? Het zou kunnen zijn dat een burger bij een heftige bui wateroverlast als vanzelfsprekend beschouwt en het dan dus niet als een probleem ervaart, terwijl een relatief kleinere bui die wateroverlast veroorzaakt meer opvalt en dus eerder zal worden gemeld.
 - Geen waarnemingen: mensen blijven misschien binnen met slecht weer en nemen daardoor minder waar.
+
+**[Inhoud](ToC.md)**
