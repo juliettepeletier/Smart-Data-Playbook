@@ -1,5 +1,7 @@
 **[Inhoud](ToC.md)**
 
+### :three: Stap 3: Verzamel de data
+
 > Hoewel bij het verzamelen van de gewenste databronnen vaak eerst binnen de eigen organisatie wordt gekeken, kan het juist ook interessant zijn om gebruik te maken van externe (open) databronnen
 
 ## Voorbeelden van externe databronnen
