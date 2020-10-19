@@ -1,8 +1,5 @@
----
-id: metamorphoses_KPI
-title: Kritieke prestatie-indicator (KPI)
-sidebar_label: Kritieke prestatie-indicator (KPI)
----
+**[Inhoud](ToC.md)**
+
 >**Kritieke prestatie-indicatoren** [^1] (ook wel kritische in plaats van kritieke), afgekort **KPI**'s, zijn variabelen om prestaties te analyseren.
 
 In het Engels worden deze aangeduid als key performance indicators. Kritieke prestatie-indicatoren zijn variabelen waaraan valt af te lezen of een organisatie op koers ligt ten opzichte van haar doelstellingen.
@@ -19,13 +16,13 @@ Door hiermee te werken zijn doelen concreet gemaakt en dus de mogelijkheid gecre
 
 Diverse steden hebben al oplossingen bedacht om hun beleid te monitoren. Hieronder is een aantal voorbeelden beschreven. [^2]
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/KPI_ResidentialBreakdown.png" target="_blank" alt="imageStyle: Residential Breakdown"/>
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/KPI_ResidentialWasteDiversion.png" target="_blank" alt="imageStyle: Residential Waste Diversion"/>
+![KPI](/KPI_ResidentialBreakdown.png)
+![KPI](/KPI_ResidentialWasteDiversion.png)
 
 Een ander voorbeeld is ”waar staat je gemeente” van de VNG. Deze site maakt het mogelijk de prestaties van een individuele gemeente te bekijken en te vergelijken met andere gemeenten op een groot aantal thema’s.
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/KPI_Waddinxveen.png" target="_blank" alt="imageStyle: Waddinxveen"/>
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/KPI_Waddinxveen2.png" target="_blank" alt="imageStyle: Waddinxveen2"/>
+![KPI](/KPI_Waddinxveen.png)
+![KPI](/KPI_Waddinxveen2.png)
 
 Wat is er uit deze voorbeelden te leren?
 
@@ -42,7 +39,7 @@ De ontwikkeling van duidelijke KPI’s in relatie tot beleidsdoelstellingen is o
 * beschikbare plaatsen in stallingen (of bezettingsgraad van stalling)
 * gemiddelde snelheid fietsverkeer
 
-**Voorbeeld Urban Strategy: cycleprint**
-
 [^1]: [Kritieke prestatie indicator](https://nl.wikipedia.org/wiki/Kritieke_prestatie-indicator)
 [^2]: [Edmonton Citizen Dashboard](https://dashboard.edmonton.ca/)
+
+**[Inhoud](ToC.md)**
