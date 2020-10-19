@@ -1,4 +1,4 @@
-
+**[Inhoud](ToC.md)**
 
 Klimaatadaptie is een belangrijk onderwerp met de huidige veranderingen in het milieu en de veranderingen die nog gaan komen in de toekomst. Wateroverlast hoort daar ook bij, maar denk ook aan hitte-eilanden, energieverbruik en -opwekking en luchtkwaliteit.
 
@@ -105,3 +105,5 @@ De verkoeling door bomen is met de huidige constantes zodanig minimaal dat die w
 
 ![Snuffelfiets](/heat.png)
 ![Snuffelfiets](/twi.png)
+
+**[Inhoud](ToC.md)**
