@@ -10,7 +10,7 @@ De gemeente Utrecht gebruikt een applicatie Slim Melden waarmee zij meldingen va
 
 
 ![Wateroverlast](/Voorbeeld_1_image1.png)
-Format: ![Wateroverlast voorbeeld 1](url)
+Format: ![Wateroverlast voorbeeld 1](https://github.com/tomorrowplace/Smart-Data-Playbook/blob/main/Voorbeeld_1_image1.png)
 
 In de afgelopen 2,5 jaar zijn in totaal meer dan 160.000 meldingen verzameld. Deze meldingen zijn beschikbaar als open data en kunnen dus door iedereen gebruikt worden (en worden gecombineerd met andere data. Hieronder staat een voorbeeld van een dashboard van de gemeente Utrecht, waarbij de categorie wateroverlast is geselecteerd. 
 
