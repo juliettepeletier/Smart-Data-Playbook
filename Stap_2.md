@@ -1,6 +1,6 @@
 **[Inhoud](ToC.md)**
 
-### :two: Stap 2: 
+### :two: Stap 2: Formuleer indicatoren
 
 Vertaal de sleutelelementen in 1 of meerdere meetbare indicatoren. 
 Gebruik kritieke prestatie-indicatoren (KPI’s) om meetbare doelstellingen te kunnen formuleren, met een waarde per tijdsperiode. Beleid is dan te monitoren.
