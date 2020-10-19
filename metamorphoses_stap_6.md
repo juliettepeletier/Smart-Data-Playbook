@@ -1,8 +1,4 @@
----
-id: metamorphoses_stap_6
-title: Stap 6: Combineren van databronnen
-sidebar_label: Stap 6: Combineren
----
+**[Inhoud](ToC.md)**
 
 Soms is één databron niet voldoende om een vraagstuk te beantwoorden en is het nodig om verschillende databronnen te combineren of samen te voegen om tot conclusies te kunnen komen.
 
@@ -16,3 +12,4 @@ Zie het [Wateroverlast](metamorphoses_voorbeeld_wateroverlast.md) voorbeeld waar
 
 Hierbij kan het nodig zijn dat de informatie binnen de verschillende databronnen eerst gestandaardiseerd moet worden voor deze samengevoegd kunnen worden. [zie [stap 5](stap_5.md)]
 
+**[Inhoud](ToC.md)**
