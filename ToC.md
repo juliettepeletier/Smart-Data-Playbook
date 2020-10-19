@@ -1,6 +1,6 @@
 # Inhoud Kookboek Smart Data
 
-:house:
+## [:house: Introductie](README.md)
 
 ## [Introductie](README.md)
 ## [Stap 1: Formuleer de vraag](metamorphoses_stap_1.md)
