@@ -1,7 +1,7 @@
 # Inhoud Kookboek Smart Data
 
 ## [:house: Introductie](README.md)
-Stappenplan
+**Stappenplan**
 ## [:one: Formuleer de vraag](Stap_1.md)
 ## [:two: Formuleer indicatoren](metamorphoses_stap_2.md)
 ## [:three: Verzamel de data](metamorphoses_stap_3.md)
