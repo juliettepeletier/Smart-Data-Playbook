@@ -1,11 +1,7 @@
----
-id: metamorphoses_inzet
-title: Hoe zetten we data effectief in?
-sidebar_label: Hoe zetten we data effectief in?
----
+
 > Data kunnen een hulpmiddel zijn om de onzekerheid van uitkomsten te verminderen. Ze zijn niet het toverstokje dat alle problemen oplost of een maakbare samenleving creëert.
 
-De provincie Zuid-Holland ontwikkelt beleid om gewenste ontwikkelingen/verbeteringen in de fysieke leefomgeving te bereiken. In het beleid wordt rekening gehouden met een groot aantal factoren. De ontwikkeling van die factoren is deels voorspelbaar, deels onvoorspelbaar. Daarom heeft beleid niet altijd de uitkomst of impact die vooraf was bedacht. Data kunnen gebruikt worden voor het bieden van inzicht en het opstellen van modellen, simulaties en analyses. Daarmee kan een beter beeld worden gegeven van de (mogelijke) implicaties van beleidsmaatregelen. Door maatregelen te monitoren kan de uitvoering gevolgd worden en waar nodig worden bijgesteld.
+In beleid wordt rekening gehouden met een groot aantal factoren. De ontwikkeling van die factoren is deels voorspelbaar, deels onvoorspelbaar. Daarom heeft beleid niet altijd de uitkomst of impact die vooraf was bedacht. Data kunnen gebruikt worden voor het bieden van inzicht en het opstellen van modellen, simulaties en analyses. Daarmee kan een beter beeld worden gegeven van de (mogelijke) implicaties van beleidsmaatregelen. Door maatregelen te monitoren kan de uitvoering gevolgd worden en waar nodig worden bijgesteld.
 
 We leven in een netwerksamenleving waarin het delen van data van groot belang is voor een efficiënte en succesvolle uitvoering van organisatiebeleid. Data was de afgelopen jaren het wondermiddel dat ons zou helpen objectieve, feitelijke keuzes te maken. Als we maar genoeg data hebben en die combineren, dan zouden we elk probleem oplossen. Zo was de gedachte. Gelukkig groeit het inzicht dat het zo simpel niet is. Daarvoor is een aantal redenen aan te voeren, zoals ook helder beschreven in dit artikel: https://www.gebiedsontwikkeling.nu/artikelen/werk-niet-data-gedreven-maar-data-ondersteund/.
 
