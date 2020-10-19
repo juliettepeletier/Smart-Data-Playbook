@@ -6,17 +6,10 @@
 
 ## Hoe zit dit kookboek in elkaar?
 
-Dit kookboek bevat verschillende bouwstenen die ieder ingaan op een aspect rondom de meetbaarheid, controleerbaarheid en monitoring/evaluatie van data.
-Dit document is bedoeld als handboek en als inspiratiebron. Het is niet bedoeld om letterlijk elke stap te doorlopen. Afhankelijk van jouw vraagstuk zal de ene stap meer aandacht moeten krijgen dan de ander. Je gebruikt wat je nodig hebt. 
+Dit kookboek biedt een algemeen stappenplan en verschillende voorbeeld "recepten". Het is een interactief document met verschillende bouwstenen die ieder ingaan op een aspect rondom de meetbaarheid, controleerbaarheid en monitoring/evaluatie van data.
+Dit kookboek is bedoeld als naslagwerk en als inspiratiebron. Het is niet bedoeld om letterlijk van begin tot eind te doorlopen. Afhankelijk van de behoefte en het kennisniveau van jouw organisatie kun je het kookboek op verschillende manieren gebruiken. Je gebruikt wat je nodig hebt. En als je wilt bieden we links naar meer informatie en voorbeelden van anderen. Het gaat in dit kookboek nadrukkelijk niet alleen om het eindresultaat, maar ook om alle stappen en hulpmiddelen om data op een goede en structurele manier te gebruiken binnen jouw organisatie. De focus in dit kookboek ligt op de gebouwde omgeving, maar de aanpak is toepasbaar op elk beleidsterrein. 
 
-## Aanpak
-In dit project gaan we structureel inzetten op een goede dataverzameling en presentatie van deze informatie. Onderdeel van dit project is niet alleen de presentatie van de resultaten,maar ook de beschrijving van de aanpak, de technologie die wordt gebruikt en de manier waarop de data wordt verzameld en gepresenteerd. Een belangrijke doelstelling is dat de aanpak in dit project gekopieerd kan worden naar andere beleidsthema’s binnen de provincie Zuid-Holland. 
-## Hoe is dit document te gebruiken?
-Het stappenplan is zodanig opgezet dat zij als naslag fungeren voor beleidsmedewerkers en developers. Het bevat verwijzingen naar voorbeelden van andere oplossingen die hergebruikt kunnen worden of als inspiratie kunnen dienen. Daarnaast wordt er per stap verwezen naar relevante achtergrondinformatie.     
-
-De stappen in het document hoeven niet lineair gebruikt te worden. Soms zul je bepaalde stappen herhaald doorlopen voordat je naar een volgende fase kunt gaan.
-
-
+Het kookboek is zodanig opgezet dat het als naslag kan fungeren voor zowel beleidsmedewerkers, data scientists als projectmanagers. Het bevat verwijzingen naar voorbeelden van andere oplossingen die hergebruikt kunnen worden of als inspiratie kunnen dienen. Daarnaast wordt er per stap verwezen naar relevante achtergrondinformatie.     
 
 ## Omgevingswet en DSO	
 De komst van de nieuwe Omgevingswet in 2021 is een belangrijke katalysator om de omgang met data gestructureerd op te pakken. Het uitgangspunt van een gelijke informatiepositie voor alle betrokkenen is één van de centrale pijlers van de Omgevingswet. 
