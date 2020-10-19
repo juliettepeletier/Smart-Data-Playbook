@@ -1,15 +1,12 @@
 **[Inhoud](ToC.md)**
 
-> Dit is een praktisch voorbeeld waarbij getracht is zoveel mogelijk stappen uitgebreid te behandelen. Daardoor zal dit niet altijd een goed beeld geven van de werkelijkheid en is dus puur illustratief bedoeld.
+> In dit voorbeeld doorlopen we de verschillende stappen. Het is bedoeld als illustratie en zal niet altijd overeenkomen met de werkelijkheid.
 
-## Introductie
+## Stap 1: De vraag
 
-De impact van wateroverlast op de samenleving zal de komende jaren alleen maar toenemen zoals uitgebreid is beschreven in [Wateroverlast](metamorphoses_voorbeeld_wateroverlast.md). Hierin is ook de link gelegd naar de Meldingen Openbare Ruimte (MOR) als een bruikbare databron. In dit document zal hier verder op in worden gegaan en ook een combinatie gemaakt worden met de weersdata van het KNMI. Een uitgebreide kijk in de data van het KNMI is te vinden onder [Voorbeeld dataset - KNMI](kookboek_data_knmi.md)
-
-## Aanleiding
+De impact van wateroverlast op de samenleving zal de komende jaren toenemen zoals uitgebreid is beschreven in [Wateroverlast](vb-wateroverlast.md). Hierin is ook de link gelegd naar de Meldingen Openbare Ruimte (MOR) als een bruikbare databron. In dit document zal hier verder op in worden gegaan en ook een combinatie gemaakt worden met de weersdata van het KNMI. Een uitgebreide kijk in de data van het KNMI is te vinden onder [Voorbeeld dataset - KNMI](kookboek_data_knmi.md)
 
 De gemeente Utrecht gebruikt een applicatie Slim Melden waarmee zij meldingen van inwoners verzamelen. Eén van de categorieën waarover een melding gedaan kan worden, is wateroverlast.
-
 
 ![Wateroverlast](/Voorbeeld_1_image1.png)
 
@@ -22,12 +19,12 @@ In de afgelopen 2,5 jaar zijn in totaal meer dan 160.000 meldingen verzameld. De
 Aan de hand van de vraagstelling hierboven zullen we nu het stappenplan doorlopen
 
 ### Stap 1: Concretiseren
-> Maak het vraagstuk concreet [[zie stap 1]](../metamorphoses_stap_1)
+> Maak het vraagstuk concreet [[zie stap 1]](Stap_1)
 
 In dit scenario definieren we overlast als overlast waar een burger melding van maakt, waarbij we verwachten dat er een samenhang is tussen de hoeveelheid regen en het aantal meldingen om een verwachting te kunnen maken van waar overlast zal optreden.
 
 ### Stap 2: Formuleren
-> Vertaal de sleutelelementen in 1 of meerdere meetbare indicatoren [[zie stap 2]](../metamorphoses_stap_2)
+> Vertaal de sleutelelementen in 1 of meerdere meetbare indicatoren [[zie stap 2]](Stap_2)
 
 Uit onze definitie is er maar 1 KPI te formuleren:
 
@@ -36,7 +33,7 @@ Uit onze definitie is er maar 1 KPI te formuleren:
 Met als extra actiepunt het bijhouden van de neerslag in deze periode.
 
 ### Stap 3: Verzamelen
-> Hoe vind je de gewenste data om deze indicatoren te berekenen [[zie stap 3]](../metamorphoses_stap_3)
+> Hoe vind je de gewenste data om deze indicatoren te berekenen [[zie stap 3]](Stap_3)
 
 Vaak begint de zoektocht bij een van de algemene databibliotheken zoals data.overheid.nl of pdok.nl, maar soms is ook al bekend bij wat voor andere instanties de data te vinden is. Afhankelijk van het gebied kan dat een of meerdere gemeentes zijn.
 
@@ -49,7 +46,7 @@ Vanwege ons uitgangspunt zijn de databronnen al bekend:
 Deze databronnen zullen als leidraad genomen worden in de vervolgstappen.
 
 ### Stap 4: Waarderen
-> Vind je in de data de juiste gegevens voor het beantwoorden van je vraagstuk [[zie stap 4]](../metamorphoses_stap_4)
+> Vind je in de data de juiste gegevens voor het beantwoorden van je vraagstuk [[zie stap 4]](Stap_4)
 
 Alle databronnen hebben hun specifieke eigenschappen die in de gaten gehouden moeten worden bij het gebruik ervan:
 
@@ -66,7 +63,7 @@ Deze databron kan verschillen per gemeente of instantie, maar over het algemeen 
 Vanzelfsprekende dataset, waarbij hooguit gelet moet worden op variaties in buurten over tijd door veranderingen in samenstellingen. 
 
 ### Stap 5: Prepareren
-> Maak de data gereed voor gebruik [[zie stap 5]](../metamorphoses_stap_5)
+> Maak de data gereed voor gebruik [[zie stap 5]](Stap_5)
 
 In dit geval nemen we aan dat de buurtverdelingen gelijk zijn gebleven in onze periode. 
 
@@ -79,27 +76,27 @@ In het geval er meerdere meetstations moeten worden meegenomen voor het gebied v
 Deze dataset zal meer werk kosten. Zo zullen de categorieen niet altijd even eenvoudig in te delen zijn op wateroverlast (niet elke gemeente heeft zo'n categorie). Ook zullen in het geval van adressen deze 'vertaald' moeten worden naar een locatie om te kunnen combineren met de buurtverdelingen. Ook hoeft de tijd van melding niet het tijdstip van oorzaak te zijn. Denk aan een kelder die volgestroomd is, waarvan de eigenaar 's ochtends melding doen terwijl de oorzaak de hevige regenbui in de avond van de dag ervoor was.
 
 ### Stap 6: Combineren
-> Combineer de data als dat nodig is [[zie stap 6]](../metamorphoses_stap_6)
+> Combineer de data als dat nodig is [[zie stap 6]](Stap_6)
 
 Match elke melding aan de bijbehorende buurt gebaseerd op de locatie.
 
 ### Stap 7: Verwerken
-> Bereken de KPI's [[zie stap 7]](../metamorphoses_stap_7)
+> Bereken de KPI's [[zie stap 7]](Stap_7)
 
 Aggregeer deze meldingen per buurt over een bepaalde periode (bijvoorbeeld per week)
 
 ### Stap 8: Documenteren
-> Leg vast hoe het resultaat tot stand is gekomen [[zie stap 8]](../metamorphoses_stap_8)
+> Leg vast hoe het resultaat tot stand is gekomen [[zie stap 8]](Stap_8)
 
 Dit document zou beschouwd kunnen worden als documentatie. In het geval van een datacatalogus zou je deze bronnen toevoegen. Uiteindelijk is het belangrijk dat men weet wat er is gebeurd en welke beredeneringen en aannames zijn gedaan om bij het resultaat te komen. Dit om transparantie en reproduceerbaarheid te verbeteren.
 
 ### Stap 9: Monitoren
-> Herhaal het proces [[zie stap 9]](../metamorphoses_stap_9)
+> Herhaal het proces [[zie stap 9]](Stap_9)
 
 Herhaal de bovenstaande stappen om een tijdsbeeld te krijgen van het verloop om het beleid te monitoren. Denk hierbij ook aan het maken van een script dat dit proces geautomatiseerd doet. Hou in dat geval rekening met eventuele veranderingen van databronnen (bijvoorbeeld datasets per jaar die elk jaar een nieuwe naam krijgen) of aanpassingen in de berekeningen.
 
 ### Stap 10: Presenteren
-> Maak een rapport/dashboard/presentatie [[zie stap 10]](../metamorphoses_stap_10)
+> Maak een rapport/dashboard/presentatie [[zie stap 10]](Stap_10)
 
 Nu bekend is wat de precieze informatie is (namelijk meldingen van problemen in de openbare ruimte door burgers die dit probleem ook waarnemen en vervelend vinden) kan deze informatie worden omgezet naar kennis. Of in ieder geval gepresenteert worden. Hieronder zijn een aantal voorbeelden uitgewerkt, waar ook de inzichten van de vorige stap aan bod komen. 
 
