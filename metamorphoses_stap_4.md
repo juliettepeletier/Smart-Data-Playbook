@@ -1,8 +1,5 @@
----
-id: metamorphoses_stap_4
-title: Stap 4: Waardeer deze data
-sidebar_label: Stap 4: Waarderen
----
+**[Inhoud](ToC.md)**
+
 > Er is zeer veel data beschikbaar. Hoe je deze data waardeert, is een heel andere vraag. Op voorhand is de inhoud, kwaliteit, relevantie of bruikbaarheid niet altijd duidelijk. Een goed fundament voor datagedreven beleid begint daarom met het creëren van inzicht in deze aspecten. Het maakt data meetbaar, waardoor beleid controleerbaar en analyseerbaar kan worden en dus transparant.
 
 Om de kwaliteit van datasets te bepalen is het belangrijk om de juiste vragen te stellen:
@@ -28,3 +25,5 @@ Met gestandaardiseerde data / datamodellen is het makkelijker om:
 Ook ratings kunnen bijdragen aan de bepaling van de kwaliteit van datasets.
 Zo kunnen datasets beoordeeld worden op een aantal kenmerken, bijvoorbeeld conform de 3 B´s die in het Digitaal Stelsel Omgevingswet zijn geformuleerd: Beschikbaarheid, Bruikbaarheid en Bestendigheid. Waardering van datasets is één van de manieren om snel inzicht te geven in de kwaliteit en kan onderdeel uitmaken van de metadata.
 [[Meer over rating datasets]]( metamorphoses_rating_datasets)
+
+**[Inhoud](ToC.md)**
