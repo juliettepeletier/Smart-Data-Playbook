@@ -2,7 +2,7 @@
 
 ## Kookboek voor slim gebruik van data
 
-> We leven in een netwerksamenleving waarin data van groot belang zijn voor een efficiënte en succesvolle uitvoering van beleid. Data kan helpen om meer objectieve en feitelijke keuzes te maken. Maar dat gaat niet vanzelf. Gelukkig groeit het inzicht dat het zo simpel niet is. Daarvoor is een aantal redenen aan te voeren, zoals ook helder beschreven in dit artikel: https://www.gebiedsontwikkeling.nu/artikelen/werk-niet-data-gedreven-maar-data-ondersteund/.
+> We leven in een netwerksamenleving waarin data van groot belang zijn voor een efficiënte en succesvolle uitvoering van beleid. Data kan helpen om meer objectieve en feitelijke keuzes te maken. Maar dat gaat niet vanzelf. Gelukkig groeit het inzicht dat het zo simpel niet is. Daarvoor is een aantal redenen aan te voeren. [^1]
 
 De kern van dat betoog is dat data een versimpelde weergave van de werkelijkheid bieden, dat de kwaliteit vaak niet voldoet en data eenzijdige besluitvorming legitimeert. Met voorbeelden wordt dit toegelicht.
 
@@ -31,11 +31,13 @@ De komst van de nieuwe Omgevingswet in 2021 is een belangrijke katalysator om de
 Het Digitaal Stelsel Omgevingswet (DSO) bevat een groot aantal aanknopingspunten om databeleid vorm te geven. In dit document zal dit meermalen aan de orde komen. Het DSO brengt alle partijen bij elkaar die betrokken zijn bij de uitvoering van de Omgevingswet en biedt digitale diensten die helpen bij het ontsluiten van informatie over de leefomgeving.
 
 ## Structuur in data
-Nu steeds meer partijen zich technisch aansluiten op het digitale stelsel [^1]
+Nu steeds meer partijen zich technisch aansluiten op het digitale stelsel [^2]
 is het van groot belang om op gestructureerde en effectieve wijze kwalitatieve data te delen t.b.v. een geïntegreerd datagedreven proces.
 
-[^1]: https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/technisch-aansluiten/standaarden/overzicht/
 ## API
 In het Digitaal Stelsel Omgevingswet wordt sterk ingezet op de ontwikkeling van open API´s (conform de OpenAPI-specificatie) en een ontwikkelaarsportaal waar alle beschikbare API’s gevonden kunnen worden (inclusief documentatie). [[Meer over API]](metamorphoses_data_ontsluiting.md#api)
+
+[^1]: https://www.gebiedsontwikkeling.nu/artikelen/werk-niet-data-gedreven-maar-data-ondersteund/
+[^2]: https://aandeslagmetdeomgevingswet.nl/digitaal-stelsel/technisch-aansluiten/standaarden/overzicht/
 
 **[Inhoud](ToC.md)**
