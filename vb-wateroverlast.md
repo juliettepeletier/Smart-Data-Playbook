@@ -10,11 +10,10 @@ De gemeente Utrecht gebruikt een applicatie Slim Melden waarmee zij meldingen va
 
 
 ![Wateroverlast](/Voorbeeld_1_image1.png)
-Format: ![Wateroverlast voorbeeld 1](https://github.com/tomorrowplace/Smart-Data-Playbook/blob/main/Voorbeeld_1_image1.png)
 
 In de afgelopen 2,5 jaar zijn in totaal meer dan 160.000 meldingen verzameld. Deze meldingen zijn beschikbaar als open data en kunnen dus door iedereen gebruikt worden (en worden gecombineerd met andere data. Hieronder staat een voorbeeld van een dashboard van de gemeente Utrecht, waarbij de categorie wateroverlast is geselecteerd. 
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/Voorbeeld_1_image2.png" target="_blank" alt="imageStyle: Wateroverlas"/>
+![Wateroverlast](/Voorbeeld_1_image2.png)
 
 ## Stappenplan
 
@@ -106,7 +105,7 @@ Nu bekend is wat de precieze informatie is (namelijk meldingen van problemen in 
 
 Een eerste stap om een idee te krijgen van de impact van wateroverlast is bekijken waar deze overlast nou voorkomt. Hieronder is een verdeling weergegeven van de meldingen in Utrecht in de categorie wateroverlast in de periode 9-8-2018 t/m 21-8-2019. Hoe minder transparant de blauwe kleur, des te minder meldingen er in dat gebied zijn gemaakt. Duidelijk is met name de Binnenstad en in mindere mate Vleuten, De Meern en Lunetten plekken zijn waar veel meldingen gemaakt worden. Hoe meer mensen ergens wonen, des te groter de kans dat er iemand is die alle 4 de stappen doorloopt om tot een melding te komen. Dus is deze verdeling zo wel representatief?
 
-![Verdeling van de meldingen in Utrecht over wateroverlast in de periode 9-8-2018 t/m 21-8-2019](assets/Kookboek/kookboek_example_wateroverlast_wateroverlast_slimmelden_meldingen_cropped.png)
+![Verdeling van de meldingen in Utrecht over wateroverlast in de periode 9-8-2018 t/m 21-8-2019](/kookboek_example_wateroverlast_wateroverlast_slimmelden_meldingen_cropped.png)
 
 #### Verdeling stemmen
 
