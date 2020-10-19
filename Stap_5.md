@@ -1,5 +1,7 @@
 **[Inhoud](ToC.md)**
 
+### :five: Stap 5: Prepareer de data
+
 > Naast het bepalen van de inhoudelijke kwaliteit van de data, is het belangrijk om ook naar de databron zelf te kijken. Zo kan het mogelijk zijn dat de databron zelf nog aanpassingen nodig heeft voordat de databron gebruikt kan worden voor analyse.
 
 Hieronder staan enkele korte voorbeelden die samenhangen met het preparen van de gevonden databronnen:
