@@ -1,5 +1,7 @@
 **[Inhoud](ToC.md)**
 
+:one:
+
 > Veel vraagstukken zijn dusdanig complex dat concretisering nodig is om tot een antwoord te kunnen komen. Om een vraagstuk te concretiseren is het belangrijk om de juiste vragen te stellen. 
 
 Enkele voorbeelden van vragen:
