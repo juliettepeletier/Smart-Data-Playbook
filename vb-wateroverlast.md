@@ -1,9 +1,3 @@
----
-id: metamorphoses_voorbeeld_wateroverlast
-title: Wateroverlast
-sidebar_label: Wateroverlast
----
-
 > Dit is een praktisch voorbeeld waarbij getracht is zoveel mogelijk stappen uitgebreid te behandelen. Daardoor zal dit niet altijd een goed beeld geven van de werkelijkheid en is dus puur illustratief bedoeld.
 
 ## Introductie
@@ -14,7 +8,9 @@ De impact van wateroverlast op de samenleving zal de komende jaren alleen maar t
 
 De gemeente Utrecht gebruikt een applicatie Slim Melden waarmee zij meldingen van inwoners verzamelen. Eén van de categorieën waarover een melding gedaan kan worden, is wateroverlast.
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/Voorbeeld_1_image1.png" target="_blank" alt="imageStyle: Wateroverlas"/>
+
+![Wateroverlast](/Voorbeeld_1_image1.png)
+Format: ![Wateroverlast voorbeeld 1](url)
 
 In de afgelopen 2,5 jaar zijn in totaal meer dan 160.000 meldingen verzameld. Deze meldingen zijn beschikbaar als open data en kunnen dus door iedereen gebruikt worden (en worden gecombineerd met andere data. Hieronder staat een voorbeeld van een dashboard van de gemeente Utrecht, waarbij de categorie wateroverlast is geselecteerd. 
 
