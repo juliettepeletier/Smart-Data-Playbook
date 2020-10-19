@@ -111,7 +111,7 @@ Een eerste stap om een idee te krijgen van de impact van wateroverlast is bekijk
 
 Hieronder staat een soortgelijke verdeling, maar nu in plaats van meldingen het aantal stemmen. Dit zijn dus meldingen waarvan andere burgers vinden dat ze dit ook een probleem vinden. Wat opvalt is dat dit tot een ander beeld leidt; nog steeds staat de Binnenstad bovenaan, maar Leidsche Rijn is nu ook opeens duidelijk aanwezig. 
 
-![Verdeling van de stemmen in Utrecht over wateroverlast in de periode 9-8-2018 t/m 21-8-2019](/Kookboek/kookboek_example_wateroverlast_wateroverlast_slimmelden_stemmen_cropped.png)
+![Verdeling van de stemmen in Utrecht over wateroverlast in de periode 9-8-2018 t/m 21-8-2019](/kookboek_example_wateroverlast_wateroverlast_slimmelden_stemmen_cropped.png)
 
 #### Meldingen en het weer
 
@@ -119,7 +119,7 @@ Een andere aanpak is het vergelijken van de melden met weersgegevens, bijvoorbee
 
 Elk punt in de grafiek stelt hieronder stelt een dag voor met op de x-as het aantal mm regen dat die dag is gevallen en op de y-as het percentage meldingen over wateroverlast. In de periode 9-8-2018 t/m 21-8-2019 ligt het percentage dus tussen de 0% en de 18% en de etmaalsom tossen de 0 mm en de 42 mm.
 
-![Verdeling van de stemmen in Utrecht over wateroverlast in de periode 9-8-2018 t/m 21-8-2019](/Kookboek/kookboek_example_wateroverlast_regenval_vs_meldingen.png)
+![Verdeling van de stemmen in Utrecht over wateroverlast in de periode 9-8-2018 t/m 21-8-2019](/kookboek_example_wateroverlast_regenval_vs_meldingen.png)
 
 Wat opvalt is dat er geen duidelijke lijn te zien is tusen de meldingen en de neerslag. Het gros van de punten ligt linksonderin (geen regen, geen meldingen) en tussen de 10 en 15 mm regen lijkt het percentage meldingen toe te nemen, maar dit zet niet door. Sterker nog, voor alle dagen met meer dan 30 mm regen komt het percentage niet boven die met 0 mm regen. Maar wellicht is dit de verkeerde vergelijking: 30 mm op een dag kan betekenen dat het de hele dag zachtjes heeft geregend heeft (1 mm per uur) of dat er een korte maar heftige wolkbreuk is geweest (bv. 60 mm in een half uur). 
 
