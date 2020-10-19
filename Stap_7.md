@@ -1,6 +1,6 @@
 **[Inhoud](ToC.md)**
 
-### :seven: Stap 7: 
+### :seven: Stap 7: Presenteer de data
 
 Na het [prepareren](stap_5.md) en eventueel [combineren](stap_6.md) van de gevonden databronnen, is de volgende stap het verwerken van de data. Dit wil zeggen de feitelijke analyse van de data om KPI's te kunnen bepalen.
 
