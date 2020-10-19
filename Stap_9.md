@@ -12,7 +12,7 @@ Relevante vragen m.b.t. monitoren van doelstellingen:
 + Inzicht in gebruikte bronnen 
 + Zijn je doelstellingen nog steeds correct?
 
-Herhaal dit proces regelmatig om een completer beeld te krijgen van het verloop, van de veranderingen van [KPI’s]( metamorphoses_KPI.md) in de tijd. 
+Herhaal dit proces regelmatig om een completer beeld te krijgen van het verloop, van de veranderingen van [KPI’s](KPI.md) in de tijd. 
 Door alle gedocumenteerde stappen is het voor xxx te herleiden xxx.
 Het is afhankelijk van de kwaliteit van de data (bv realtime of niet) hoe frequent je nieuwe data wilt verzamelen.
 
