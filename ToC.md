@@ -12,3 +12,5 @@
 ## [Stap 9: Monitor de indicatoren](metamorphoses_stap_9.md)
 ## [Stap 10: Visualiseer de data](metamorphoses_stap_10.md)
 ## [Stap 11: Evalueer het proces](metamorphoses_stap_11.md)
+
+## [Voorbeelden](examples.md)
