@@ -13,5 +13,7 @@
 ## [:nine: Monitor de indicatoren](Stap_9.md)
 ## [:one: :zero: Visualiseer de data](Stap_10.md)
 ## [:one: :one: Evalueer het proces](Stap_11.md)
-
+--
 ## [Voorbeelden](examples.md)
+--
+## [Bibiotheek](Bibliotheek.md)
