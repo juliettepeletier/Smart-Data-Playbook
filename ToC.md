@@ -11,7 +11,7 @@ Stappenplan
 ## [:seven: Presenteer de data](metamorphoses_stap_7.md)
 ## [:eight: Documenteer de data](metamorphoses_stap_8.md)
 ## [:nine: Monitor de indicatoren](metamorphoses_stap_9.md)
-## [:ten: Visualiseer de data](metamorphoses_stap_10.md)
+## [:one: :zero: Visualiseer de data](metamorphoses_stap_10.md)
 ## [Stap 11: Evalueer het proces](metamorphoses_stap_11.md)
 
 ## [Voorbeelden](examples.md)
