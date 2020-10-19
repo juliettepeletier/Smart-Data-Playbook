@@ -1,3 +1,5 @@
+### [[Inhoud]](ToC.md)
+
 ## Kookboek voor slim gebruik van data
 
 > Overheden willen de meetbaarheid, controleerbaarheid en monitoring van hun doelstellingen met betrekking tot de kwaliteit van de leefomgeving verbeteren. Daarbij wil zij beter gebruik maken van de mogelijkheden die data bieden. Dit kookboek helpt om data beter te gebruiken bij het verbeteren van de kwaliteit van de leefomgeving.
