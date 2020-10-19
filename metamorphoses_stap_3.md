@@ -1,8 +1,4 @@
----
-id: metamorphoses_stap_3
-title: Stap 3: Verzamel of creëer data
-sidebar_label: Stap 3: Verzamelen
----
+**[Inhoud](ToC.md)**
 
 > Hoewel bij het verzamelen van de gewenste databronnen vaak eerst binnen de eigen organisatie wordt gekeken, kan het juist ook interessant zijn om gebruik te maken van externe (open) databronnen
 
@@ -25,3 +21,5 @@ sidebar_label: Stap 3: Verzamelen
 Een andere mogelijkheid om aan de gewenste data te komen, is door zelf nieuwe data te genereren. Een voorbeeld hiervan is het Snuffelfiets project. [[meer over het Snuffelfiets project]](metamorphoses_voorbeeld_snuffelfiets.md)
 
 Wanneer op bovenstaande opties allemaal niet tot de gewenste data leiden is het noodzakelijk om terug te gaan naar [Stap 2](stap_2.md). Pas je KPI's aan zodat veranderingen wél meetbaar worden. 
+
+**[Inhoud](ToC.md)**
