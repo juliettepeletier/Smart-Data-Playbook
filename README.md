@@ -19,4 +19,4 @@ is het van groot belang om op gestructureerde en effectieve wijze kwalitatieve d
 ## API
 In het Digitaal Stelsel Omgevingswet wordt sterk ingezet op de ontwikkeling van open API´s (conform de OpenAPI-specificatie) en een ontwikkelaarsportaal waar alle beschikbare API’s gevonden kunnen worden (inclusief documentatie). [[Meer over API]](metamorphoses_data_ontsluiting.md#api)
 
-## [[Inhoudsopgave]](ToC.md)
+**[Inhoud](ToC.md)**
