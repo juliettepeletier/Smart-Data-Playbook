@@ -1,8 +1,4 @@
----
-id: metamorphoses_voorbeeld_snuffelfiets
-title:  Snuffelfiets
-sidebar_label:  Snuffelfiets
----
+**[Inhoud](ToC.md)**
 
 Het snuffelfiets project is een initatief vanuit de provincie Utrecht om samen met burgers door middel van relatief goedkope sensoren een beeld te krijgen van de luchtkwaliteit in de provincie. Vaak is het onduidelijk hoe het nou staat met de luchtkwaliteit in een kwantitatieve manier en zijn de mogelijkheden om dit vast te stellen over het algemeen een flinke investering. Dit is een van veel voorkomende vicieuze cirkels, waarbij data nodig is om het probleem vast te stellen maar het probleem al duidelijk moet zijn om de juiste data te verzamelen.
 
@@ -12,13 +8,13 @@ In dit project is het idee dat burgers met deze simpele sensoren rond gaan fiets
 
 De provincie Utrecht voert een project uit om de luchtkwaliteit en fietsroutes in kaart te brengen. In 2019 krijgen 500 fietsers een meetkastje (mobiele sensor) waarmee elke 10 seconden de luchtkwaliteit en GPS-positie wordt gemeten. Elke 2 minuten wordt de data via een standaard protocol (NB-IoT of LTE) verstuurd naar een dataplatform. De data die wordt verzameld wordt ook naar het RIVM gezonden om de gegevens te valideren tov het officiële landelijke meetnet. De gecorrigeerde gegevens worden eveneens op een dataplatform opgeslagen en beschikbaar gesteld als open data.
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/Voorbeeld_2_image1.png" target="_blank" alt="imageStyle: Wateroverlas"/>
+![Snuffelfiets](/Voorbeeld_2_image1.png)
 
 In feite is het achterliggende proces voor elk sensorproject vergelijkbaar, zoals hieronder schematisch is weergegeven. Sensoren versturen de data via een gateway naar een dataplatform. Daar wordt de data in een herbruikbaar, open formaat omgezet, zodat het kan worden hergebruikt voor nieuwe toepassingen. 
 
 Publicatie als open data is een keuze die de eigenaar van de data maakt. Op een vergelijkbare manier heeft de gemeente Utrecht bijvoorbeeld 50 invalideparkeerplaatsen voorzien van een sensor. Elke statuswijziging (vrij-bezet) wordt als nieuw record opgeslagen, zodat er een set historische data wordt opgebouwd die gebruikt kan worden voor analyse en eventuele aanpassing van beleid.
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/Voorbeeld_2_image2.png" target="_blank" alt="imageStyle: Wateroverlas"/>
+![Snuffelfiets](/Voorbeeld_2_image2.png)
 
 ## Van meting naar data
 
@@ -72,8 +68,7 @@ Hieronder zijn een aantal voorbeelden gegeven, elk met hun voordelen en nadelen.
 
 Een route is een reeks aaneengesloten punten van een bepaalde sensor. Onderstaande kaart geeft dus weer hoe fietsers zijn gereden en wat luchtkwaliteit er gemeten is onderweg. Kort gezegd: puntjes tekenen en lijntjes trekken.
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/kookboek_example_snuffelfiets_routes.png" target="_blank" alt="imageStyle: 
-Residential Breakdown"/>
+![Snuffelfiets](/kookboek_example_snuffelfiets_routes.png)
 
 | Voordelen | Nadelen |
 | - | - |
@@ -83,7 +78,7 @@ Residential Breakdown"/>
 
 In het geval van het grid, is het gebied in stukken geknipt (vierkanten, zeshoeken, etc) en is per gebied de gemiddelde luchtkwaliteit bepaald. Belangrijke parameter van een grid is de celgrootte: wat is de maat van de kleinste verdeling.
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/kookboek_example_snuffelfiets_grid.png" target="_blank" alt="imageStyle: Residential Breakdown"/>
+![Snuffelfiets](/kookboek_example_snuffelfiets_grid.png)
 
 | Voordelen | Nadelen |
 | - | - |
@@ -93,8 +88,10 @@ In het geval van het grid, is het gebied in stukken geknipt (vierkanten, zeshoek
 
 In plaats van de routes uit de metingen te halen, is er in dit geval voor gekozen om de punten te matchen aan wegvakken zoals die door het NDW zijn bepaald. Op deze manier kunnen metingen op wegvakkniveau bekeken worden. Tevens is er voor elk wegvak een uitsplitsing gemaakt naar uurvak.
 
-<img class="imageStyle shadowing" src="/docs/assets/Kookboek/kookboek_example_snuffelfiets_wegvak.png" target="_blank" alt="imageStyle: Residential Breakdown"/>
+![Snuffelfiets](/kookboek_example_snuffelfiets_wegvak.png)
 
 | Voordelen | Nadelen |
 | - | - |
 | Het beeld bevat nu daadwerkelijk de bestaande infrastructuur, wat het mogelijk maakt de luchtkwaliteit te vergelijken met andere informatie over de weg | Elk punt hoort bij een wegvak, terwijl de onzekerheid andere wegvakken niet uit kan sluiten. Vraagt veel bewerking. |
+
+**[Inhoud](ToC.md)**
