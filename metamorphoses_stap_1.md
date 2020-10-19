@@ -1,8 +1,4 @@
----
-id: metamorphoses_stap_1
-title: Stap 1: Maak het vraagstuk concreet
-sidebar_label: Stap 1: Concretiseren
----
+**[Inhoud](ToC.md)**
 
 > Veel vraagstukken zijn dusdanig complex dat concretisering nodig is om tot een antwoord te kunnen komen. Om een vraagstuk te concretiseren is het belangrijk om de juiste vragen te stellen. 
 
@@ -16,3 +12,5 @@ Enkele voorbeelden van vragen:
 Concreet voorbeeld: Je wil het aantal overstromingen verminderen. Definieer wanneer iets als een overstroming wordt aangeduid. Wanneer leidt het tot overlast? In welk gebied wordt het vooral als overlast ervaren, stedelijk, agrarisch? Oorzaken van wateroverlast? Hoeveelheid regen, type bodem / verharding, aanleg riolering.
 
 [[Zie uitgebreid voorbeeld m.b.t. ambities Zuid-Holland]]( metamorphoses_opzet.md)
+
+**[Inhoud](ToC.md)**
