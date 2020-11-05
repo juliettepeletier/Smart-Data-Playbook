@@ -4,7 +4,7 @@
 
 Data en technologie zijn hulpmiddelen, geen doel op zich. Ze zijn alleen waardevol als ze helpen een probleem op te lossen of tot betere diensten leiden. En heldere vraag helpt ook om de juiste data te zoeken of verzamelen, of de meest geschikte technologie in te zetten.  
 
-> Veel vraagstukken zijn dusdanig complex dat concretisering nodig is om tot een antwoord te kunnen komen. Om een vraagstuk te concretiseren is het belangrijk om de juiste vragen te stellen. 
+> Veel vraagstukken zijn dusdanig complex dat concretisering nodig is om tot een antwoord te kunnen komen. Om een vraagstuk te concretiseren is het belangrijk om de juiste vragen te stellen. Dat is niet alleen een opgave voor overheden, maar ook voor bedrijven. Boston heeft een smart city playbook gemaakt die bedrijven uitdaagt om vooraf ook goed na te denken over de bijdrage die hun oplossing levert aan de opgaven van de stad.
 
 Enkele voorbeelden van vragen:
 + Welke ambitie moet worden bewerkstelligd of welk probleem ga je proberen op te lossen?
