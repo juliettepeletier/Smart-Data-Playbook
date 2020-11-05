@@ -1,6 +1,10 @@
 **[Inhoud](ToC.md)**
 
-## Kookboek voor slim gebruik van data
+## Het grote Data Kookboek voor de leefomgeving
+
+## Inleiding
+
+Overheden willen hun doelstellingen met betrekking tot de kwaliteit van de leefomgeving beter meten, controleren en monitoren. Dit Kookboek beschrijft de mogelijkheden die data daarbij kunnen bieden. 
 
 > We leven in een netwerksamenleving waarin data van groot belang zijn voor een efficiënte en succesvolle uitvoering van beleid. Data kan helpen om meer objectieve en feitelijke keuzes te maken. Maar dat gaat niet vanzelf. Gelukkig groeit het inzicht dat het zo simpel niet is. Daarvoor is een aantal redenen aan te voeren. [^1]
 
@@ -12,8 +16,6 @@ Het is belangrijk dat beleidsmedewerkers weten hoe ze data kunnen gebruiken bij 
 Tot slot is data niet altijd up-to-date. Zo is het AHN (Actueel Hoogtebestand Nederland) een dataset die eens per 6 jaar wordt geactualiseerd. Om de bodemdalingsproblematiek, na de warme zomers van de afgelopen jaren, in kaart te brengen, is dit onvoldoende.
 
 Een zorgvuldige inzet van data is dus van groot belang.
-
-Overheden willen de meetbaarheid, controleerbaarheid en monitoring van hun doelstellingen met betrekking tot de kwaliteit van de leefomgeving verbeteren. Daarbij wil zij beter gebruik maken van de mogelijkheden die data bieden. Dit kookboek helpt om data beter te gebruiken bij het verbeteren van de kwaliteit van de leefomgeving.
 
 ## Hoe zit dit kookboek in elkaar?
 
