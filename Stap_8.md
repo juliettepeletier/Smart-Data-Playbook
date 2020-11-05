@@ -12,3 +12,5 @@ Aangezien in veel gevallen conclusies zullen worden getrokken op basis van een c
 Hierbij kan de Datacatalogus hulp bieden. [[Meer over controleerbaarheid van data]](data-management.md)
 
 **[Inhoud](ToC.md)**
+
+Voorbeeld verandering.......
