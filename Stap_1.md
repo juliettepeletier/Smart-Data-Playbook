@@ -2,6 +2,8 @@
 
 ### :one: Stap 1: Formuleer de vraag
 
+Data en technologie zijn hulpmiddelen, geen doel op zich. Ze zijn alleen waardevol als ze helpen een probleem op te lossen of tot betere diensten leiden. En heldere vraag helpt ook om de juiste data te zoeken of verzamelen, of de meest geschikte technologie in te zetten.  
+
 > Veel vraagstukken zijn dusdanig complex dat concretisering nodig is om tot een antwoord te kunnen komen. Om een vraagstuk te concretiseren is het belangrijk om de juiste vragen te stellen. 
 
 Enkele voorbeelden van vragen:
